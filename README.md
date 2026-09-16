@@ -66,7 +66,7 @@ Teste 04 – Integridade estrutural comprometida
 ![Teste 04](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste04.png)
 
 Teste 05 – Nível de energia insuficiente
-![Teste 05](imagens/teste05.png)
+![Teste 05](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste05.png)
 
 Teste 06 – Pressão dos tanques baixa
 ![Teste 06](imagens/teste06.png)
