@@ -72,7 +72,7 @@ Teste 06 – Pressão dos tanques baixa
 ![Teste 06](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste06.png)
 
 Teste 07 – Falha em módulo crítico
-![Teste 07](imagens/teste07.png)
+![Teste 07](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste07.png)
 
 Teste 08 – Múltiplas anomalias
 ![Teste 08](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste08.png)
