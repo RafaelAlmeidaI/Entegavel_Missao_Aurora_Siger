@@ -75,7 +75,7 @@ Teste 07 – Falha em módulo crítico
 ![Teste 07](imagens/teste07.png)
 
 Teste 08 – Múltiplas anomalias
-![Teste 08](imagens/teste08.png)
+![Teste 08](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste08.png)
 
 Teste 09 – Condições intermediárias
 ![Teste 09](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste09.png)
