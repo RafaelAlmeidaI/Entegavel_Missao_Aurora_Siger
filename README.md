@@ -53,11 +53,35 @@ Depois, execute as células do notebook e informe os dados solicitados pelo prog
 
 Prints da execução
 
+Teste 01 – Condições normais
+![Teste 01](imagens/teste01.png)
 
+Teste 02 – Temperatura interna elevada
+![Teste 02](imagens/teste01.png)
 
+Teste 03 – Temperatura externa elevad
+![Teste 03](imagens/teste01.png)
 
+Teste 04 – Integridade estrutural comprometida
+![Teste 04](imagens/teste01.png)
 
+Teste 05 – Nível de energia insuficiente
+![Teste 05](imagens/teste01.png)
 
+Teste 06 – Pressão dos tanques baixa
+![Teste 06](imagens/teste01.png)
+
+Teste 07 – Falha em módulo crítico
+![Teste 07](imagens/teste01.png)
+
+Teste 08 – Múltiplas anomalias
+![Teste 08](imagens/teste01.png)
+
+Teste 09 – Condições intermediárias
+![Teste 09](imagens/teste01.png)
+
+Teste 10 – Situação crítica
+![Teste 10](imagens/teste01.png)
 
 Arquivos do projeto
 README.md – documentação do projeto.
@@ -65,7 +89,7 @@ sistema_monitoramento.ipynb – notebook com o código e as execuções.
 sistema_monitoramento.py – código principal do sistema.
 Repositório
 
-Link do GitHub:
+
 
 
 
