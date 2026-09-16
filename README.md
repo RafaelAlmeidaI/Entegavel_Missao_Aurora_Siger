@@ -57,7 +57,7 @@ Teste 01 – Condições normais
 ![Teste 01](imagens/teste01.png)
 
 Teste 02 – Temperatura interna elevada
-![Teste 02](imagens/teste02.png)
+![Teste 02](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste02.png)
 
 Teste 03 – Temperatura externa elevad
 ![Teste 03](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste03.png)
