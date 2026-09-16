@@ -81,7 +81,7 @@ Teste 09 – Condições intermediárias
 ![Teste 09](imagens/teste09.png)
 
 Teste 10 – Situação crítica
-![Teste 10](imagens/teste10.png)
+![Teste 10](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste10.png)
 
 Arquivos do projeto
 README.md – documentação do projeto.
