@@ -63,7 +63,7 @@ Teste 03 – Temperatura externa elevad
 ![Teste 03](imagens/teste03.png)
 
 Teste 04 – Integridade estrutural comprometida
-![Teste 04](imagens/teste04.png)
+![Teste 04](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste04.png)
 
 Teste 05 – Nível de energia insuficiente
 ![Teste 05](imagens/teste05.png)
