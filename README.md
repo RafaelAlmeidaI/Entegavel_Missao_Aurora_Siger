@@ -78,7 +78,7 @@ Teste 08 – Múltiplas anomalias
 ![Teste 08](imagens/teste08.png)
 
 Teste 09 – Condições intermediárias
-![Teste 09](imagens/teste09.png)
+![Teste 09](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste09.png)
 
 Teste 10 – Situação crítica
 ![Teste 10](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste10.png)
