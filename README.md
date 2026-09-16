@@ -54,7 +54,7 @@ Depois, execute as células do notebook e informe os dados solicitados pelo prog
 Prints da execução
 
 Teste 01 – Condições normais
-![Teste 01](imagens/teste01.png)
+![Teste 01](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste01.png)
 
 Teste 02 – Temperatura interna elevada
 ![Teste 02](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste02.png)
