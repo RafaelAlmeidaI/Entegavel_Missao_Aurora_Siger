@@ -57,31 +57,31 @@ Teste 01 – Condições normais
 ![Teste 01](imagens/teste01.png)
 
 Teste 02 – Temperatura interna elevada
-![Teste 02](imagens/teste01.png)
+![Teste 02](imagens/teste02.png)
 
 Teste 03 – Temperatura externa elevad
-![Teste 03](imagens/teste01.png)
+![Teste 03](imagens/teste03.png)
 
 Teste 04 – Integridade estrutural comprometida
-![Teste 04](imagens/teste01.png)
+![Teste 04](imagens/teste04.png)
 
 Teste 05 – Nível de energia insuficiente
-![Teste 05](imagens/teste01.png)
+![Teste 05](imagens/teste05.png)
 
 Teste 06 – Pressão dos tanques baixa
-![Teste 06](imagens/teste01.png)
+![Teste 06](imagens/teste06.png)
 
 Teste 07 – Falha em módulo crítico
-![Teste 07](imagens/teste01.png)
+![Teste 07](imagens/teste07.png)
 
 Teste 08 – Múltiplas anomalias
-![Teste 08](imagens/teste01.png)
+![Teste 08](imagens/teste08.png)
 
 Teste 09 – Condições intermediárias
-![Teste 09](imagens/teste01.png)
+![Teste 09](imagens/teste09.png)
 
 Teste 10 – Situação crítica
-![Teste 10](imagens/teste01.png)
+![Teste 10](imagens/teste10.png)
 
 Arquivos do projeto
 README.md – documentação do projeto.
