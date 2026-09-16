@@ -69,7 +69,7 @@ Teste 05 – Nível de energia insuficiente
 ![Teste 05](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste05.png)
 
 Teste 06 – Pressão dos tanques baixa
-![Teste 06](imagens/teste06.png)
+![Teste 06](https://github.com/RafaelAlmeidaI/Entegavel_Missao_Aurora_Siger/blob/main/teste06.png)
 
 Teste 07 – Falha em módulo crítico
 ![Teste 07](imagens/teste07.png)
